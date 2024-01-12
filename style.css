@@ -1,0 +1,64 @@
+.head{
+        background: linear-gradient(300deg, #AAD9BB, #D5F0C1, #F9F7C9);
+        text-align: center;
+        
+}
+
+body{
+    margin: 0;   
+}
+
+h1{
+    margin: 0;
+    font-size: 4rem;
+    font-family: 'Aoboshi One', serif;
+    font-family: 'Caprasimo', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2{
+    margin: 0;
+    font-size: 2rem;
+    font-family: 'Aoboshi One', serif;
+    font-family: 'Caprasimo', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    
+}
+
+.h2{
+    padding-bottom: 50px;
+}
+
+.myphoto{
+    border-radius: 50px;
+}
+
+p{
+    font-family: 'Aoboshi One', serif;
+    font-family: 'Caprasimo', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Permanent Marker', cursive;
+    text-align:center;
+    margin-left: 15px;
+}
+
+.container{
+    background-color: red;
+    align-content: center;
+    align-items: center;
+    al
+}
+
+.img2 {
+    width:250px;
+    height: 180px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+ }
+
